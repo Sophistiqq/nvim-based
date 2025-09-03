@@ -4,5 +4,5 @@ require("setups")
 require("keymaps")
 require("lsp")
 
-vim.cmd("colorscheme tokyonight-storm")
+vim.cmd("colorscheme night-owl")
 

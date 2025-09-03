@@ -14,7 +14,9 @@ require("lualine").setup({
   }
 })
 require("smear_cursor").setup()
-require("precognition").setup()
+require("precognition").setup({
+  startVisible = false
+})
 require("barbar").setup({
   tabpages = true,
   animation = true,

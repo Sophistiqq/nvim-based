@@ -15,6 +15,8 @@ vim.pack.add({
   { src = "https://github.com/tris203/precognition.nvim" },
   { src = "https://github.com/sphamba/smear-cursor.nvim" },
   { src = "https://github.com/akinsho/toggleterm.nvim" },
+  { src = "https://github.com/olimorris/onedarkpro.nvim" },
+  { src = "https://github.com/oxfist/night-owl.nvim" },
 })
 
 
