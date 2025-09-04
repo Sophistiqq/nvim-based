@@ -5,4 +5,3 @@ require("keymaps")
 require("lsp")
 
 vim.cmd("colorscheme night-owl")
-

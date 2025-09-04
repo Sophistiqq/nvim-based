@@ -12,3 +12,5 @@ vim.g.loaded_netrwPlugin = 1
 vim.opt.termguicolors = true
 vim.opt.laststatus = 3
 vim.opt.winborder = "rounded"
+
+
