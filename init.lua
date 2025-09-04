@@ -4,4 +4,6 @@ require("setups")
 require("keymaps")
 require("lsp")
 
-vim.cmd("colorscheme night-owl")
+vim.cmd("colorscheme catppuccin-frappe")
+
+vim.api.nvim_set_hl(0, 'LineNR', { fg = '#cccccc' })
